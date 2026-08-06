@@ -1,0 +1,39 @@
+[
+  { "zone_id": 1, "zone_name": "Newark Airport", "borough": "EWR" },
+  { "zone_id": 3, "zone_name": "Allerton/Pelham Gardens", "borough": "Bronx" },
+  { "zone_id": 18, "zone_name": "Bedford Park", "borough": "Bronx" },
+  { "zone_id": 20, "zone_name": "Belmont", "borough": "Bronx" },
+  { "zone_id": 31, "zone_name": "Bronx Park", "borough": "Bronx" },
+  { "zone_id": 134, "zone_name": "Kew Gardens", "borough": "Queens" },
+  { "zone_id": 135, "zone_name": "Kew Gardens Hills", "borough": "Queens" },
+  { "zone_id": 138, "zone_name": "LaGuardia Airport", "borough": "Queens" },
+  { "zone_id": 139, "zone_name": "Laurelton", "borough": "Queens" },
+  {
+    "zone_id": 145,
+    "zone_name": "Long Island City/Hunters Point",
+    "borough": "queens"
+  },
+  {
+    "zone_id": 146,
+    "zone_name": "Long Island City/Queens Plaza",
+    "borough": "QUEENS"
+  },
+  { "zone_id": 157, "zone_name": "Maspeth", "borough": "Queens" },
+  { "zone_id": 160, "zone_name": "Middle Village", "borough": "Queens" },
+  { "zone_id": 171, "zone_name": "Murray Hill-Queens", "borough": "queens" },
+  { "zone_id": 173, "zone_name": "North Corona", "borough": "Queens" },
+  { "zone_id": 175, "zone_name": "Oakland Gardens", "borough": "Queens" },
+  { "zone_id": 179, "zone_name": "Old Astoria", "borough": "queens" },
+  { "zone_id": 180, "zone_name": "Ozone Park", "borough": "Queens" },
+  { "zone_id": 191, "zone_name": "Queens Village", "borough": "Queens" },
+  { "zone_id": 192, "zone_name": "Queensboro Hill", "borough": "Queens" },
+  {
+    "zone_id": 193,
+    "zone_name": "Queensbridge/Ravenswood",
+    "borough": "Queens"
+  },
+  { "zone_id": 196, "zone_name": "Rego Park", "borough": "Queens" },
+  { "zone_id": 197, "zone_name": "Richmond Hill", "borough": "Queens" },
+  { "zone_id": 198, "zone_name": "Ridgewood", "borough": "Queens" },
+  { "zone_id": 201, "zone_name": "Rockaway Park", "borough": "queens" }
+]
