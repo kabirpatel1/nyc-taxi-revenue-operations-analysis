@@ -111,14 +111,4 @@ The average tip rate across the cleaned dataset provides a baseline for understa
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `NYC_Taxi_Revenue_Analysis.ipynb` | Full Python notebook with all analysis and visualisations |
-| `taxi_trips.csv` | Raw taxi trip dataset (19,996 trips) |
-| `zones.json` | Zone lookup table mapping location IDs to zone names and boroughs |
-
----
-
 *Self-directed data analysis project using publicly available NYC taxi trip data.*
